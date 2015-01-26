@@ -1,0 +1,4 @@
+git add --all
+git commit -m "isi pesan yang akan dirubah"
+git push
+jawab : yes
